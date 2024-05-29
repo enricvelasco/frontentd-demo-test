@@ -11,5 +11,9 @@
 
 ## parte 2
 - hay que pintar los equipos correspondientes a cada liga
-- 
+- crear enrutado
+- crear vista
+
+## parte 3
+- montar el listado de jugadores de cada equipo
 
